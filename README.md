@@ -12,3 +12,6 @@ python filename.py
 
 ## Notes
 This repository is actively being improved with better structure and edge case handling.
+
+## Why this project
+These scripts focus on clarity, reliability, and small real-world tasks rather than complexity.
