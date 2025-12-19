@@ -1,2 +1,14 @@
-# python-systems-practice
-Clean Python utilities focusing on reliability, file handling, and system-level thinking
+## Overview
+This repository contains small Python utilities built to practice clean code, error handling, and system-level thinking.
+
+## Tech Stack
+Python 3
+
+## Approach
+Each script focuses on solving a small real-world problem with clarity and reliability.
+
+## How to Run
+python filename.py
+
+## Notes
+This repository is actively being improved with better structure and edge case handling.
