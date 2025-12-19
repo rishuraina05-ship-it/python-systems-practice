@@ -15,3 +15,6 @@ This repository is actively being improved with better structure and edge case h
 
 ## Why this project
 These scripts focus on clarity, reliability, and small real-world tasks rather than complexity.
+
+## Structure
+Each utility is independent but can be run together via main.py for demonstration purposes.
