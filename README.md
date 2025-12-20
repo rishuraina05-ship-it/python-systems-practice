@@ -18,3 +18,6 @@ These scripts focus on clarity, reliability, and small real-world tasks rather t
 
 ## Structure
 Each utility is independent but can be run together via main.py for demonstration purposes.
+
+## Design Notes
+These utilities are intentionally simple and focus on clarity, predictable behavior, and defensive programming rather than complexity.
